@@ -1,1 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/769351941783814204)](https://discord.com/users/769351941783814204)
+SrTig — [Kronos DevEnt]
+
+Olá, eu sou o SrTig, eu progamo em Aoi.js e BDFD po meu Bot para o Discord, Amanita.
