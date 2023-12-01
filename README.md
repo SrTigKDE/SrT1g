@@ -1,6 +1,6 @@
-# 🤪 SrTig — [Kronos DevEnt]
+# 🤪 Tig — [Kronos DevEnt]
 
-Olá, eu sou o **SrTig**, eu progamo em *Aoi.js* e *BDFD* po meu Bot para o Discord, **Amanita**.
+Olá, eu sou o **Tig**, eu progamo em *Aoi.js* e *BDFD* o meu Bot para o Discord, **Amanita**.
 
 # 🍄 Amanita — [BETA 1.1]
 
